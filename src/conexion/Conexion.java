@@ -12,7 +12,7 @@ public class Conexion {
 
     // ── Datos de conexión ──────────────────────────────────────────────────
     private static final String DRIVER = "oracle.jdbc.driver.OracleDriver";
-    private static final String URL    = "jdbc:oracle:thin:@localhost:1521:XE";
+    private static final String URL    = "jdbc:oracle:thin:@192.168.254.215:1521:orcl";
     private static final String USUARIO = "parcial2";      // Cambia por tu usuario
     private static final String PASSWORD = "parcial2";     // Cambia por tu contraseña
 
