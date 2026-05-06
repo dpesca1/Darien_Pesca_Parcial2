@@ -36,7 +36,7 @@ public class UsuarioForm extends JFrame {
     //  Inicializar componentes
     // ══════════════════════════════════════════════════════════════
     private void initComponents() {
-        setTitle("Parcial 2 - UDI");
+        setTitle("Parcial 2");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 560);
         setLocationRelativeTo(null);
