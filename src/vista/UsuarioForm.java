@@ -36,7 +36,7 @@ public class UsuarioForm extends JFrame {
     //  Inicializar componentes
     // ══════════════════════════════════════════════════════════════
     private void initComponents() {
-        setTitle("CRUD Usuario - Java + Oracle SQL Plus 10g");
+        setTitle("Parcial 2 - UDI");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 560);
         setLocationRelativeTo(null);
