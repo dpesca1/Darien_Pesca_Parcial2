@@ -13,8 +13,8 @@ public class Conexion {
     // ── Datos de conexión ──────────────────────────────────────────────────
     private static final String DRIVER = "oracle.jdbc.driver.OracleDriver";
     private static final String URL    = "jdbc:oracle:thin:@192.168.254.215:1521:orcl";
-    private static final String USUARIO = "parcial2";      // Cambia por tu usuario
-    private static final String PASSWORD = "parcial2";     // Cambia por tu contraseña
+    private static final String USUARIO = "parcial2dp";      // Cambia por tu usuario
+    private static final String PASSWORD = "parcial2dp";     // Cambia por tu contraseña
 
     // ── Método para obtener la conexión ────────────────────────────────────
     public static Connection getConexion() {
